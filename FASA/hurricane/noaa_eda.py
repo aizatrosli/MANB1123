@@ -28,7 +28,7 @@ startdate = datetime(2010, 12, 1)
 enddate = datetime(2019, 12, 31)
 
 datasetid='GHCND'
-datatypeid=['TMIN', 'TMAX', 'PRCP']
+datatypeid=['TMIN', 'TMAX', 'PRCP', 'WSF5', 'WSF2']
 
 pprint(my_client.list_datasets())
 
