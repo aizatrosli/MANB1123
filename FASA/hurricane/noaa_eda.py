@@ -24,10 +24,10 @@ extent = {
     "west": -111.97,
 }
 
-startdate = datetime(2010, 12, 1)
+startdate = datetime(1919, 1, 1)
 enddate = datetime(2019, 12, 31)
 
-datasetid='GHCND'
+datasetid='GSOM'
 datatypeid=['TMIN', 'TMAX', 'PRCP', 'WSF5', 'WSF2']
 
 pprint(my_client.list_datasets())
@@ -57,7 +57,7 @@ try:
 			return_dataframe=True,
 			include_station_meta=True   # flatten station metadata with ghcnd readings
 		)
-		pprint(station_data)
+		#pprint(station_data)
 		big_df = pd.concat([big_df, station_data])
 except Exception as e:
 	print(str(e))
