@@ -1,0 +1,449 @@
+PlayerKey,GameID,PlayKey,RosterPosition,PlayerDay,PlayerGame,FieldType,Temperature,PlayType,PlayerGamePlay,Position,PositionGroup,BodyPart,Surface,DM_M1,DM_M7,DM_M28,DM_M42,time,event,x,y,dir,dis,o,s
+31070.0,31070-3,31070-3-7,Running Back,15.0,3.0,Natural,89.0,Rush,7.0,RB,RB,Knee,Natural,1.0,1.0,1.0,1.0,0.0,line_set,44.07,32.14,23.31,0.0,174.83,0.03
+31070.0,31070-3,31070-3-7,Running Back,15.0,3.0,Natural,89.0,Rush,7.0,RB,RB,Knee,Natural,1.0,1.0,1.0,1.0,6.4,ball_snap,43.73,32.06,186.84,0.01,176.63,1.65
+31070.0,31070-3,31070-3-7,Running Back,15.0,3.0,Natural,89.0,Rush,7.0,RB,RB,Knee,Natural,1.0,1.0,1.0,1.0,7.4,handoff,43.35,28.64,188.35,0.49,98.83,4.82
+31070.0,31070-3,31070-3-7,Running Back,15.0,3.0,Natural,89.0,Rush,7.0,RB,RB,Knee,Natural,1.0,1.0,1.0,1.0,10.9,first_contact,39.32,6.75,210.82,0.4,57.97,3.72
+31070.0,31070-3,31070-3-7,Running Back,15.0,3.0,Natural,89.0,Rush,7.0,RB,RB,Knee,Natural,1.0,1.0,1.0,1.0,11.5,tackle,38.51,5.79,210.28,0.11,300.44,1.46
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,10.0,line_set,90.28,16.83,175.94,0.02,287.78,0.14
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,13.9,man_in_motion,90.43,18.55,6.47,0.29,329.58,3.03
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,16.7,ball_snap,90.69,29.71,348.09,0.32,297.69,3.14
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,20.4,pass_forward,75.24,33.98,237.29,0.4,206.64,3.97
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,21.4,pass_arrived,73.01,32.88,296.41,0.13,112.37,1.31
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,22.0,pass_outcome_caught,72.3,33.37,294.2,0.16,359.32,1.58
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,22.2,first_contact,71.97,33.42,270.35,0.18,321.94,1.8
+33337.0,33337-8,33337-8-15,Tight End,365.0,8.0,Natural,81.0,Pass,15.0,TE,TE,Foot,Natural,1.0,1.0,1.0,0.0,23.2,tackle,69.52,31.55,216.61,0.36,104.92,3.57
+33474.0,33474-19,33474-19-7,Safety,393.0,19.0,Natural,79.0,Rush,7.0,FS,DB,Knee,Natural,1.0,1.0,1.0,0.0,2.9,huddle_break_offense,57.83,27.06,164.52,0.03,279.46,0.32
+33474.0,33474-19,33474-19-7,Safety,393.0,19.0,Natural,79.0,Rush,7.0,FS,DB,Knee,Natural,1.0,1.0,1.0,0.0,9.5,line_set,55.54,31.29,329.59,0.07,288.8,0.66
+33474.0,33474-19,33474-19-7,Safety,393.0,19.0,Natural,79.0,Rush,7.0,FS,DB,Knee,Natural,1.0,1.0,1.0,0.0,12.2,man_in_motion,54.64,31.51,92.6,0.01,276.19,0.12
+33474.0,33474-19,33474-19-7,Safety,393.0,19.0,Natural,79.0,Rush,7.0,FS,DB,Knee,Natural,1.0,1.0,1.0,0.0,17.5,ball_snap,54.59,31.81,349.74,0.0,278.73,0.05
+33474.0,33474-19,33474-19-7,Safety,393.0,19.0,Natural,79.0,Rush,7.0,FS,DB,Knee,Natural,1.0,1.0,1.0,0.0,18.3,handoff,54.32,32.51,335.27,0.18,279.78,1.84
+33474.0,33474-19,33474-19-7,Safety,393.0,19.0,Natural,79.0,Rush,7.0,FS,DB,Knee,Natural,1.0,1.0,1.0,0.0,23.3,out_of_bounds,65.08,47.42,305.79,0.02,13.18,0.18
+34347.0,34347-5,34347-5-9,Wide Receiver,39.0,5.0,Natural,48.0,Kickoff,9.0,WR,WR,Knee,Natural,1.0,1.0,0.0,0.0,2.0,kickoff,44.96,16.43,88.57,0.6,0.47,6.24
+34347.0,34347-5,34347-5-9,Wide Receiver,39.0,5.0,Natural,48.0,Kickoff,9.0,WR,WR,Knee,Natural,1.0,1.0,0.0,0.0,5.9,kick_received,79.19,14.26,98.5,0.88,6.18,8.24
+34347.0,34347-5,34347-5-9,Wide Receiver,39.0,5.0,Natural,48.0,Kickoff,9.0,WR,WR,Knee,Natural,1.0,1.0,0.0,0.0,8.9,first_contact,90.14,5.14,167.98,0.61,46.7,4.95
+34347.0,34347-5,34347-5-9,Wide Receiver,39.0,5.0,Natural,48.0,Kickoff,9.0,WR,WR,Knee,Natural,1.0,1.0,0.0,0.0,10.7,out_of_bounds,91.17,-0.49,150.73,0.21,71.03,1.75
+35570.0,35570-15,35570-15-35,Offensive Lineman,389.0,15.0,Natural,79.0,Pass,35.0,T,OL,Knee,Natural,1.0,1.0,0.0,0.0,8.3,huddle_break_offense,67.31,24.5,115.7,0.11,116.57,1.1
+35570.0,35570-15,35570-15-35,Offensive Lineman,389.0,15.0,Natural,79.0,Pass,35.0,T,OL,Knee,Natural,1.0,1.0,0.0,0.0,17.1,line_set,69.16,23.63,12.79,0.02,83.38,0.15
+35570.0,35570-15,35570-15-35,Offensive Lineman,389.0,15.0,Natural,79.0,Pass,35.0,T,OL,Knee,Natural,1.0,1.0,0.0,0.0,19.2,ball_snap,69.0,23.54,221.48,0.02,101.61,0.06
+35570.0,35570-15,35570-15-35,Offensive Lineman,389.0,15.0,Natural,79.0,Pass,35.0,T,OL,Knee,Natural,1.0,1.0,0.0,0.0,22.3,pass_forward,60.93,24.48,298.47,0.22,284.22,2.43
+35570.0,35570-15,35570-15-35,Offensive Lineman,389.0,15.0,Natural,79.0,Pass,35.0,T,OL,Knee,Natural,1.0,1.0,0.0,0.0,24.5,pass_outcome_incomplete,60.05,26.8,6.15,0.09,57.96,0.88
+35611.0,35611-7,35611-7-42,Safety,50.0,7.0,Synthetic,68.0,Pass,42.0,FS,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,0.0,line_set,49.27,33.1,50.85,0.08,178.74,0.83
+35611.0,35611-7,35611-7-42,Safety,50.0,7.0,Synthetic,68.0,Pass,42.0,FS,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,13.4,ball_snap,53.65,31.49,57.63,0.0,145.78,0.78
+35611.0,35611-7,35611-7-42,Safety,50.0,7.0,Synthetic,68.0,Pass,42.0,FS,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,16.4,pass_forward,59.45,36.79,86.25,0.26,125.31,2.04
+35611.0,35611-7,35611-7-42,Safety,50.0,7.0,Synthetic,68.0,Pass,42.0,FS,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,17.4,pass_outcome_incomplete,60.95,34.92,167.8,0.32,86.08,2.43
+36557.0,36557-1,36557-1-70,Safety,1.0,1.0,Synthetic,63.0,Pass,70.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,0.0,line_set,83.69,30.37,64.58,0.06,18.69,0.59
+36557.0,36557-1,36557-1-70,Safety,1.0,1.0,Synthetic,63.0,Pass,70.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,7.1,ball_snap,83.24,29.98,157.06,0.02,10.68,0.66
+36557.0,36557-1,36557-1-70,Safety,1.0,1.0,Synthetic,63.0,Pass,70.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,9.6,first_contact,77.71,24.21,226.2,0.62,127.15,5.71
+36557.0,36557-1,36557-1-70,Safety,1.0,1.0,Synthetic,63.0,Pass,70.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,10.2,qb_sack,75.15,21.54,211.8,0.59,106.62,5.65
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,1.9,line_set,51.29,11.83,236.83,0.12,247.42,1.2
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,4.1,ball_snap,48.75,11.72,257.57,0.11,300.63,1.07
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,8.3,first_contact,60.05,15.95,19.78,0.57,313.85,5.7
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,8.8,qb_sack,60.71,18.3,12.31,0.41,286.24,3.86
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,25.3,penalty_flag,48.0,22.97,270.55,0.11,274.92,1.06
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,28.4,penalty_flag,44.73,22.84,260.32,0.09,242.37,0.92
+36559.0,36559-12,36559-12-65,Cornerback,365.0,12.0,Natural,58.0,Pass,65.0,CB,DB,Knee,Natural,1.0,1.0,0.0,0.0,28.5,penalty_declined,44.64,22.83,259.41,0.09,242.37,0.93
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,3.3,huddle_break_offense,86.06,24.11,230.49,0.01,201.0,0.0
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,9.5,line_set,81.22,26.07,343.48,0.03,98.04,0.28
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,15.9,ball_snap,81.6,26.13,58.73,0.02,63.31,0.27
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,18.7,pass_forward,78.23,19.36,198.76,0.51,160.29,5.06
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,19.9,pass_arrived,72.82,15.87,265.44,0.64,274.85,6.37
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,20.1,pass_outcome_caught,71.56,15.84,271.48,0.63,278.01,6.24
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,21.2,first_contact,65.9,16.68,281.54,0.39,274.58,3.79
+36607.0,36607-16,36607-16-19,Linebacker,422.0,16.0,Synthetic,74.0,Pass,19.0,ILB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,21.9,tackle,63.92,16.83,260.28,0.23,249.47,2.22
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,0.0,huddle_start_offense,77.31,23.9,207.24,0.0,206.89,0.09
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,2.5,huddle_break_offense,77.49,23.95,16.95,0.05,228.8,0.79
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,8.2,line_set,73.2,37.53,319.85,0.09,199.74,0.98
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,16.7,ball_snap,72.75,38.0,277.48,0.01,191.9,2.21
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,19.7,pass_forward,54.24,36.99,226.33,0.71,121.42,6.21
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,20.8,pass_arrived,51.66,30.75,185.37,0.53,44.88,5.39
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,21.1,pass_outcome_caught,51.77,29.19,176.5,0.54,35.17,4.92
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,21.4,first_contact,52.05,27.65,167.7,0.52,28.09,4.39
+38192.0,38192-8,38192-8-8,Wide Receiver,57.0,8.0,Natural,61.0,Pass,8.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,22.2,tackle,53.48,24.86,135.41,0.24,39.87,2.38
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,0.1,punt_play,24.01,21.38,217.23,0.01,334.32,0.22
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,5.3,line_set,24.62,21.65,92.17,0.0,351.27,0.01
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,14.1,ball_snap,24.64,21.75,285.23,0.0,4.32,0.11
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,16.3,punt,23.16,20.66,151.24,0.17,23.37,2.06
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,20.9,punt_received,54.42,19.95,80.23,0.94,354.33,9.16
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,24.6,first_contact,78.53,19.03,127.35,0.39,325.59,3.35
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,25.1,tackle,79.82,17.76,137.83,0.33,235.15,2.45
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,27.5,penalty_flag,80.06,17.09,345.01,0.08,116.86,0.4
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,72.2,penalty_flag,79.87,16.55,129.13,0.01,24.0,0.06
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,81.6,penalty_flag,79.9,16.69,309.2,0.0,93.32,0.04
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,81.7,penalty_declined,79.89,16.69,308.04,0.0,93.41,0.04
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,83.4,penalty_flag,79.86,16.72,317.4,0.0,89.76,0.02
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,95.0,penalty_flag,79.81,16.79,160.75,0.0,83.69,0.01
+38228.0,38228-1,38228-1-4,Linebacker,1.0,1.0,Synthetic,65.0,Punt,4.0,ILB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,95.1,penalty_accepted,79.81,16.78,161.47,0.0,84.02,0.01
+38876.0,38876-29,38876-29-14,Wide Receiver,471.0,29.0,Natural,58.0,Punt Returned,14.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,1.9,line_set,33.69,44.14,7.27,0.0,74.83,0.0
+38876.0,38876-29,38876-29-14,Wide Receiver,471.0,29.0,Natural,58.0,Punt Returned,14.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,6.5,ball_snap,33.7,44.16,19.89,0.0,77.52,0.0
+38876.0,38876-29,38876-29-14,Wide Receiver,471.0,29.0,Natural,58.0,Punt Returned,14.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,8.7,punt,34.02,35.46,166.01,0.66,136.32,6.48
+38876.0,38876-29,38876-29-14,Wide Receiver,471.0,29.0,Natural,58.0,Punt Returned,14.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,13.0,punt_received,59.0,25.11,92.63,0.73,92.49,7.26
+38876.0,38876-29,38876-29-14,Wide Receiver,471.0,29.0,Natural,58.0,Punt Returned,14.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,16.4,first_contact,80.87,28.67,81.66,0.31,134.19,2.83
+38876.0,38876-29,38876-29-14,Wide Receiver,471.0,29.0,Natural,58.0,Punt Returned,14.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,17.6,tackle,80.04,27.8,232.82,0.23,204.7,2.26
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,0.0,line_set,58.53,11.89,160.37,0.21,22.1,2.01
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,6.2,ball_snap,60.21,10.42,104.7,0.0,353.26,0.02
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,10.6,pass_forward,78.28,11.65,75.39,0.26,354.56,2.27
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,11.2,pass_arrived,79.13,11.99,88.72,0.09,228.5,1.05
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,11.3,pass_outcome_caught,79.21,12.01,96.51,0.08,208.7,0.89
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,13.1,first_contact,79.13,9.82,198.34,0.16,108.35,1.62
+39656.0,39656-2,39656-2-38,Wide Receiver,7.0,2.0,Synthetic,-999.0,Pass,38.0,WR,WR,Knee,Synthetic,1.0,1.0,0.0,0.0,14.9,tackle,77.4,7.25,221.92,0.17,141.98,1.79
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,70.11,30.78,111.98,0.04,80.95,0.41
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,5.8,huddle_break_offense,70.25,30.61,283.3,0.06,180.9,0.53
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,9.8,line_set,68.73,30.23,233.89,0.05,101.63,0.24
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,16.4,ball_snap,68.65,30.18,302.42,0.0,126.74,0.5
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,17.6,handoff,67.82,30.81,20.92,0.04,124.55,0.34
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,18.8,first_contact,69.11,30.64,134.68,0.06,152.07,0.94
+39678.0,39678-2,39678-2-1,Defensive Lineman,8.0,2.0,Synthetic,78.0,Rush,1.0,DE,DL,Ankle,Synthetic,1.0,1.0,1.0,1.0,19.5,tackle,69.29,29.89,168.38,0.1,210.52,0.72
+39850.0,39850-9,39850-9-2,Safety,64.0,9.0,Synthetic,47.0,Punt,2.0,SS,DB,Knee,Synthetic,1.0,1.0,1.0,1.0,0.0,punt_play,30.47,23.31,190.37,0.05,347.51,0.35
+39850.0,39850-9,39850-9-2,Safety,64.0,9.0,Synthetic,47.0,Punt,2.0,SS,DB,Knee,Synthetic,1.0,1.0,1.0,1.0,8.6,snap_direct,31.1,22.72,167.1,0.0,358.1,1.08
+39850.0,39850-9,39850-9-2,Safety,64.0,9.0,Synthetic,47.0,Punt,2.0,SS,DB,Knee,Synthetic,1.0,1.0,1.0,1.0,11.4,run,36.52,9.14,139.87,0.82,33.0,8.01
+39850.0,39850-9,39850-9-2,Safety,64.0,9.0,Synthetic,47.0,Punt,2.0,SS,DB,Knee,Synthetic,1.0,1.0,1.0,1.0,11.5,punt_fake,37.05,8.5,137.72,0.84,31.69,8.1
+39850.0,39850-9,39850-9-2,Safety,64.0,9.0,Synthetic,47.0,Punt,2.0,SS,DB,Knee,Synthetic,1.0,1.0,1.0,1.0,13.0,first_contact,47.57,1.82,114.78,0.72,17.94,6.54
+39850.0,39850-9,39850-9-2,Safety,64.0,9.0,Synthetic,47.0,Punt,2.0,SS,DB,Knee,Synthetic,1.0,1.0,1.0,1.0,13.7,tackle,51.07,0.39,110.63,0.37,158.5,4.11
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,0.0,punt_play,56.73,17.3,356.14,0.18,249.95,1.83
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,13.2,line_set,58.93,23.95,217.43,0.0,22.98,0.01
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,23.8,ball_snap,58.68,23.93,243.44,0.01,39.29,0.98
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,25.7,punt,56.79,21.85,114.91,0.26,74.2,2.39
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,30.4,punt_received,89.91,33.07,51.14,0.79,329.56,7.39
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,32.1,first_contact,92.75,42.6,354.23,0.56,280.74,4.73
+39873.0,39873-4,39873-4-32,Linebacker,29.0,4.0,Synthetic,84.0,Punt,32.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,1.0,33.3,tackle,92.67,45.83,18.81,0.09,179.99,1.07
+39956.0,39956-2,39956-2-14,Safety,8.0,2.0,Natural,68.0,Pass,14.0,FS,DB,Knee,Natural,1.0,1.0,0.0,0.0,0.0,huddle_start_offense,42.63,28.6,236.39,0.14,82.52,1.34
+39956.0,39956-2,39956-2-14,Safety,8.0,2.0,Natural,68.0,Pass,14.0,FS,DB,Knee,Natural,1.0,1.0,0.0,0.0,6.5,huddle_break_offense,40.33,26.47,180.0,0.0,68.84,0.06
+39956.0,39956-2,39956-2-14,Safety,8.0,2.0,Natural,68.0,Pass,14.0,FS,DB,Knee,Natural,1.0,1.0,0.0,0.0,10.4,line_set,40.57,20.73,197.62,0.18,170.82,1.63
+39956.0,39956-2,39956-2-14,Safety,8.0,2.0,Natural,68.0,Pass,14.0,FS,DB,Knee,Natural,1.0,1.0,0.0,0.0,17.4,ball_snap,39.63,19.9,19.98,0.0,86.0,0.04
+39956.0,39956-2,39956-2-14,Safety,8.0,2.0,Natural,68.0,Pass,14.0,FS,DB,Knee,Natural,1.0,1.0,0.0,0.0,21.0,pass_forward,28.7,26.17,282.82,0.69,297.33,6.49
+39956.0,39956-2,39956-2-14,Safety,8.0,2.0,Natural,68.0,Pass,14.0,FS,DB,Knee,Natural,1.0,1.0,0.0,0.0,23.7,pass_outcome_incomplete,13.73,21.1,245.04,0.33,245.75,3.35
+40474.0,40474-1,40474-1-8,Linebacker,1.0,1.0,Synthetic,70.0,Kickoff,8.0,OLB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,2.1,kickoff,44.96,35.32,101.12,0.6,31.16,6.33
+40474.0,40474-1,40474-1-8,Linebacker,1.0,1.0,Synthetic,70.0,Kickoff,8.0,OLB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,5.8,kick_received,76.3,35.15,92.95,0.82,6.9,7.69
+40474.0,40474-1,40474-1-8,Linebacker,1.0,1.0,Synthetic,70.0,Kickoff,8.0,OLB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,6.8,touchback,82.71,33.68,112.98,0.48,353.63,5.16
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,51.95,30.64,243.73,0.04,342.43,0.27
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,8.5,huddle_break_offense,49.07,30.88,289.23,0.05,12.85,0.48
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,13.0,line_set,48.2,33.87,307.18,0.07,330.37,0.68
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,19.3,shift,44.9,33.31,292.63,0.05,348.15,0.39
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,21.7,ball_snap,47.01,34.61,62.99,0.33,346.22,2.53
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,23.8,pass_forward,47.02,37.32,296.68,0.43,260.74,4.46
+41094.0,41094-1,41094-1-55,Safety,1.0,1.0,Natural,72.0,Pass,55.0,SS,DB,Knee,Natural,1.0,1.0,1.0,1.0,25.8,pass_outcome_incomplete,36.05,42.24,295.08,0.38,93.83,3.42
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,0.0,huddle_start_offense,60.24,22.93,298.47,0.02,67.09,0.23
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,5.8,huddle_break_offense,61.07,23.49,66.21,0.05,98.73,0.51
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,11.9,line_set,62.45,21.82,331.57,0.02,272.32,0.19
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,22.5,ball_snap,60.94,23.14,301.49,0.03,198.7,0.01
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,23.7,handoff,59.87,24.43,321.34,0.21,290.58,2.05
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,24.6,first_contact,59.88,25.57,53.23,0.16,289.31,1.65
+41113.0,41113-15,41113-15-63,Linebacker,421.0,15.0,Natural,53.0,Rush,63.0,OLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,25.3,tackle,61.04,25.91,87.91,0.2,246.75,1.97
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,0.0,line_set,24.07,16.55,195.19,0.11,81.55,1.09
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,7.4,ball_snap,22.0,13.82,176.06,0.05,335.97,0.39
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,9.3,pass_forward,21.34,14.05,103.8,0.09,327.54,1.14
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,9.9,pass_arrived,22.72,13.45,101.66,0.35,346.4,2.12
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,10.0,pass_outcome_caught,23.03,13.29,99.42,0.35,346.7,2.13
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,11.1,first_contact,25.02,13.81,13.09,0.25,275.46,1.93
+41145.0,41145-2,41145-2-60,Safety,11.0,2.0,Natural,89.0,Pass,60.0,SS,DB,Knee,Natural,1.0,0.0,0.0,0.0,15.4,tackle,26.2,15.55,244.12,0.03,77.67,0.27
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,0.0,huddle_start_offense,88.32,28.05,267.17,0.02,340.76,0.1
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,1.0,huddle_break_offense,88.41,28.0,91.46,0.02,352.09,0.05
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,6.4,line_set,91.38,27.39,275.18,0.12,355.3,0.76
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,11.6,ball_snap,90.83,27.43,127.03,0.07,320.72,0.96
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,12.3,handoff,91.57,26.74,151.56,0.19,342.55,1.72
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,14.6,first_contact,89.47,21.13,201.36,0.42,303.0,3.85
+41209.0,41209-9,41209-9-9,Linebacker,63.0,9.0,Synthetic,42.0,Rush,9.0,OLB,LB,Ankle,Synthetic,1.0,1.0,0.0,0.0,16.5,tackle,87.79,12.99,207.98,0.42,339.13,4.21
+41943.0,41943-1,41943-1-12,Linebacker,1.0,1.0,Natural,70.0,Rush,12.0,OLB,LB,Ankle,Natural,1.0,1.0,0.0,0.0,0.0,line_set,73.4,18.66,71.7,0.08,338.29,0.57
+41943.0,41943-1,41943-1-12,Linebacker,1.0,1.0,Natural,70.0,Rush,12.0,OLB,LB,Ankle,Natural,1.0,1.0,0.0,0.0,7.7,ball_snap,73.68,18.86,40.25,0.0,340.4,0.91
+41943.0,41943-1,41943-1-12,Linebacker,1.0,1.0,Natural,70.0,Rush,12.0,OLB,LB,Ankle,Natural,1.0,1.0,0.0,0.0,8.9,handoff,74.92,20.8,9.8,0.25,317.77,2.59
+41943.0,41943-1,41943-1-12,Linebacker,1.0,1.0,Natural,70.0,Rush,12.0,OLB,LB,Ankle,Natural,1.0,1.0,0.0,0.0,11.0,first_contact,73.25,25.24,297.69,0.18,129.13,2.22
+41943.0,41943-1,41943-1-12,Linebacker,1.0,1.0,Natural,70.0,Rush,12.0,OLB,LB,Ankle,Natural,1.0,1.0,0.0,0.0,12.7,tackle,67.29,26.76,288.96,0.38,213.01,3.16
+42348.0,42348-23,42348-23-53,Linebacker,406.0,23.0,Synthetic,46.0,Rush,53.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,0.0,1.9,line_set,35.48,26.44,263.13,0.04,266.18,0.3
+42348.0,42348-23,42348-23-53,Linebacker,406.0,23.0,Synthetic,46.0,Rush,53.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,0.0,22.6,ball_snap,35.45,22.6,67.5,0.31,70.9,3.3
+42348.0,42348-23,42348-23-53,Linebacker,406.0,23.0,Synthetic,46.0,Rush,53.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,0.0,26.3,first_contact,48.22,22.31,136.63,0.05,174.28,0.4
+42348.0,42348-23,42348-23-53,Linebacker,406.0,23.0,Synthetic,46.0,Rush,53.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,0.0,27.0,run,48.32,22.73,14.3,0.09,247.96,0.88
+42348.0,42348-23,42348-23-53,Linebacker,406.0,23.0,Synthetic,46.0,Rush,53.0,OLB,LB,Knee,Synthetic,1.0,1.0,1.0,0.0,28.8,out_of_bounds,48.59,23.09,143.05,0.01,303.2,0.14
+42418.0,42418-19,42418-19-15,Offensive Lineman,442.0,19.0,Synthetic,57.0,Rush,15.0,C,OL,Ankle,Synthetic,1.0,0.0,0.0,0.0,4.0,huddle_break_offense,65.22,26.78,270.85,0.19,341.46,1.54
+42418.0,42418-19,42418-19-15,Offensive Lineman,442.0,19.0,Synthetic,57.0,Rush,15.0,C,OL,Ankle,Synthetic,1.0,0.0,0.0,0.0,10.1,line_set,60.15,26.54,107.74,0.03,262.12,0.01
+42418.0,42418-19,42418-19-15,Offensive Lineman,442.0,19.0,Synthetic,57.0,Rush,15.0,C,OL,Ankle,Synthetic,1.0,0.0,0.0,0.0,19.2,ball_snap,60.05,26.44,173.45,0.05,229.37,0.2
+42418.0,42418-19,42418-19-15,Offensive Lineman,442.0,19.0,Synthetic,57.0,Rush,15.0,C,OL,Ankle,Synthetic,1.0,0.0,0.0,0.0,20.4,handoff,60.08,23.14,185.81,0.34,204.88,3.29
+42418.0,42418-19,42418-19-15,Offensive Lineman,442.0,19.0,Synthetic,57.0,Rush,15.0,C,OL,Ankle,Synthetic,1.0,0.0,0.0,0.0,22.7,tackle,54.6,17.9,251.59,0.09,205.51,1.51
+42448.0,42448-14,42448-14-3,Wide Receiver,379.0,14.0,Synthetic,78.0,Pass,3.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,0.0,1.9,line_set,46.24,18.7,7.15,0.01,81.17,0.1
+42448.0,42448-14,42448-14-3,Wide Receiver,379.0,14.0,Synthetic,78.0,Pass,3.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,0.0,5.3,ball_snap,46.25,18.67,69.55,0.04,85.6,0.43
+42448.0,42448-14,42448-14-3,Wide Receiver,379.0,14.0,Synthetic,78.0,Pass,3.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,0.0,7.0,play_action,52.7,21.5,87.6,0.49,85.29,4.79
+42448.0,42448-14,42448-14-3,Wide Receiver,379.0,14.0,Synthetic,78.0,Pass,3.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,0.0,9.1,pass_forward,55.41,11.8,183.99,0.69,217.65,6.82
+42448.0,42448-14,42448-14-3,Wide Receiver,379.0,14.0,Synthetic,78.0,Pass,3.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,0.0,9.6,pass_arrived,55.3,8.32,180.45,0.69,200.89,6.88
+42448.0,42448-14,42448-14-3,Wide Receiver,379.0,14.0,Synthetic,78.0,Pass,3.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,0.0,10.2,pass_outcome_incomplete,55.4,4.39,176.69,0.62,176.71,6.12
+42456.0,42456-20,42456-20-76,Cornerback,386.0,20.0,Synthetic,73.0,Rush,76.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,0.0,1.9,line_set,73.39,19.66,139.13,0.11,138.7,1.13
+42456.0,42456-20,42456-20-76,Cornerback,386.0,20.0,Synthetic,73.0,Rush,76.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,0.0,3.0,ball_snap,74.16,18.96,121.81,0.08,102.77,0.74
+42456.0,42456-20,42456-20-76,Cornerback,386.0,20.0,Synthetic,73.0,Rush,76.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,0.0,4.0,handoff,74.16,18.3,206.62,0.19,112.05,2.0
+42456.0,42456-20,42456-20-76,Cornerback,386.0,20.0,Synthetic,73.0,Rush,76.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,0.0,6.5,first_contact,73.08,14.47,97.68,0.18,42.78,1.77
+42456.0,42456-20,42456-20-76,Cornerback,386.0,20.0,Synthetic,73.0,Rush,76.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,0.0,7.8,tackle,72.59,14.77,318.98,0.13,329.47,1.33
+42456.0,42456-20,42456-20-76,Cornerback,386.0,20.0,Synthetic,73.0,Rush,76.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,0.0,16.3,penalty_flag,70.08,18.99,285.24,0.06,319.67,0.62
+42600.0,42600-3,42600-3-1,Linebacker,15.0,3.0,Natural,88.0,Kickoff,1.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,0.3,kickoff,44.48,33.14,97.44,0.65,349.91,6.33
+42600.0,42600-3,42600-3-1,Linebacker,15.0,3.0,Natural,88.0,Kickoff,1.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,5.1,touchback,85.26,40.73,66.04,0.69,333.64,6.3
+42637.0,42637-3,42637-3-6,Linebacker,12.0,3.0,Natural,33.0,Punt,6.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,0.0,punt_play,39.31,32.69,49.22,0.06,12.9,0.53
+42637.0,42637-3,42637-3-6,Linebacker,12.0,3.0,Natural,33.0,Punt,6.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,4.3,line_set,39.63,32.81,190.73,0.0,347.42,0.01
+42637.0,42637-3,42637-3-6,Linebacker,12.0,3.0,Natural,33.0,Punt,6.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,8.1,ball_snap,39.58,32.78,272.54,0.01,344.71,1.27
+42637.0,42637-3,42637-3-6,Linebacker,12.0,3.0,Natural,33.0,Punt,6.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,10.2,punt,36.14,34.72,37.84,0.24,357.88,2.38
+42637.0,42637-3,42637-3-6,Linebacker,12.0,3.0,Natural,33.0,Punt,6.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,14.5,fair_catch,65.75,36.04,91.43,0.82,5.22,7.89
+42637.0,42637-3,42637-3-6,Linebacker,12.0,3.0,Natural,33.0,Punt,6.0,OLB,LB,Knee,Natural,1.0,1.0,1.0,1.0,18.8,fair_catch,82.33,36.27,13.71,0.14,280.67,1.38
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,34.33,23.73,21.04,0.07,118.61,0.14
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,4.4,huddle_break_offense,32.9,23.57,266.75,0.17,219.73,1.59
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,9.2,line_set,30.57,23.63,104.04,0.0,232.33,0.01
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,13.3,man_in_motion,30.6,23.63,116.57,0.0,235.2,0.01
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,15.6,ball_snap,30.6,23.6,197.3,0.0,231.52,1.22
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,16.9,pass_forward,30.27,20.2,163.57,0.39,178.85,3.07
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,17.5,pass_arrived,31.57,18.57,144.36,0.36,247.56,2.33
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,17.6,pass_outcome_caught,31.73,18.3,142.48,0.31,277.48,2.19
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,18.6,first_contact,32.37,17.83,80.39,0.05,45.41,0.44
+43505.0,43505-2,43505-2-49,Offensive Lineman,11.0,2.0,Natural,68.0,Pass,49.0,C,OL,Foot,Natural,1.0,1.0,1.0,1.0,19.4,tackle,32.53,18.17,47.49,0.03,142.33,0.32
+43518.0,43518-6,43518-6-25,Cornerback,36.0,6.0,Synthetic,-999.0,Pass,25.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,10.1,26.74,88.62,0.0,356.77,0.03
+43518.0,43518-6,43518-6-25,Cornerback,36.0,6.0,Synthetic,-999.0,Pass,25.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,4.5,huddle_break_offense,10.18,26.67,191.18,0.0,345.93,0.01
+43518.0,43518-6,43518-6-25,Cornerback,36.0,6.0,Synthetic,-999.0,Pass,25.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,11.4,line_set,11.86,36.38,122.14,0.04,339.41,0.12
+43518.0,43518-6,43518-6-25,Cornerback,36.0,6.0,Synthetic,-999.0,Pass,25.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,13.7,ball_snap,12.3,36.49,21.6,0.02,4.13,0.57
+43518.0,43518-6,43518-6-25,Cornerback,36.0,6.0,Synthetic,-999.0,Pass,25.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,17.1,pass_forward,11.13,48.79,334.99,0.4,344.5,3.58
+43518.0,43518-6,43518-6-25,Cornerback,36.0,6.0,Synthetic,-999.0,Pass,25.0,CB,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,19.3,pass_outcome_incomplete,9.88,49.73,166.58,0.01,253.38,0.2
+43532.0,43532-5,43532-5-69,Wide Receiver,32.0,5.0,Synthetic,89.0,Kickoff,69.0,WR,WR,Ankle,Synthetic,1.0,1.0,1.0,1.0,15.4,onside_kick,57.62,49.22,93.16,0.02,71.75,0.98
+43532.0,43532-5,43532-5-69,Wide Receiver,32.0,5.0,Synthetic,89.0,Kickoff,69.0,WR,WR,Ankle,Synthetic,1.0,1.0,1.0,1.0,18.0,kick_received,65.95,46.11,94.79,0.43,326.92,4.53
+43532.0,43532-5,43532-5-69,Wide Receiver,32.0,5.0,Synthetic,89.0,Kickoff,69.0,WR,WR,Ankle,Synthetic,1.0,1.0,1.0,1.0,20.1,tackle,74.58,47.31,87.69,0.14,278.57,1.87
+43540.0,43540-3,43540-3-14,Linebacker,15.0,3.0,Natural,89.0,Rush,14.0,MLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,0.0,line_set,39.61,24.49,32.44,0.07,5.84,0.48
+43540.0,43540-3,43540-3-14,Linebacker,15.0,3.0,Natural,89.0,Rush,14.0,MLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,5.2,shift,42.23,24.26,82.65,0.04,6.07,0.13
+43540.0,43540-3,43540-3-14,Linebacker,15.0,3.0,Natural,89.0,Rush,14.0,MLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,6.6,ball_snap,42.7,24.04,139.31,0.26,46.02,1.9
+43540.0,43540-3,43540-3-14,Linebacker,15.0,3.0,Natural,89.0,Rush,14.0,MLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,7.7,handoff,44.42,21.17,164.83,0.32,14.37,2.72
+43540.0,43540-3,43540-3-14,Linebacker,15.0,3.0,Natural,89.0,Rush,14.0,MLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,8.5,first_contact,44.4,19.17,166.33,0.25,38.25,2.28
+43540.0,43540-3,43540-3-14,Linebacker,15.0,3.0,Natural,89.0,Rush,14.0,MLB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,9.2,tackle,45.14,17.73,149.32,0.21,349.61,1.47
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,78.52,23.61,58.64,0.0,182.07,0.03
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,7.1,huddle_break_offense,75.56,24.21,274.65,0.07,330.85,0.7
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,15.5,line_set,75.75,24.16,174.71,0.04,358.72,0.14
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,21.3,ball_snap,75.14,29.68,0.48,0.0,7.18,0.53
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,23.7,pass_forward,72.36,35.23,299.16,0.45,53.69,4.23
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,25.1,pass_arrived,66.85,36.12,272.91,0.15,165.12,1.87
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,25.6,pass_outcome_caught,66.58,36.09,274.92,0.03,173.75,0.55
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,25.9,first_contact,66.57,36.06,323.43,0.01,175.42,0.1
+43540.0,43540-7,43540-7-2,Linebacker,44.0,7.0,Natural,70.0,Pass,2.0,MLB,LB,Ankle,Natural,1.0,1.0,1.0,1.0,27.8,tackle,66.84,35.95,196.32,0.07,169.27,0.58
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,4.2,huddle_break_offense,21.9,22.5,106.72,0.0,3.71,0.0
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,9.0,line_set,22.64,21.66,27.77,0.06,264.42,0.6
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,15.4,shift,22.33,21.55,201.95,0.01,258.04,0.0
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,16.8,ball_snap,22.29,21.55,296.58,0.01,263.39,0.07
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,18.2,handoff,22.69,21.45,111.45,0.14,283.96,1.1
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,19.4,first_contact,23.54,19.78,154.37,0.24,345.79,2.04
+43672.0,43672-8,43672-8-9,Defensive Lineman,365.0,8.0,Synthetic,62.0,Rush,9.0,DT,DL,Knee,Synthetic,1.0,1.0,0.0,0.0,20.0,tackle,24.52,18.85,131.8,0.17,325.73,1.97
+44421.0,44421-12,44421-12-41,Defensive Lineman,365.0,12.0,Natural,61.0,Pass,41.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,0.1,huddle_start_offense,52.87,29.42,118.49,0.0,343.36,0.0
+44421.0,44421-12,44421-12-41,Defensive Lineman,365.0,12.0,Natural,61.0,Pass,41.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,2.5,huddle_break_offense,52.94,29.4,93.89,0.0,342.08,0.0
+44421.0,44421-12,44421-12-41,Defensive Lineman,365.0,12.0,Natural,61.0,Pass,41.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,6.9,line_set,52.35,26.29,211.83,0.08,247.46,0.93
+44421.0,44421-12,44421-12-41,Defensive Lineman,365.0,12.0,Natural,61.0,Pass,41.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,10.0,ball_snap,51.36,25.96,283.29,0.05,268.15,0.38
+44421.0,44421-12,44421-12-41,Defensive Lineman,365.0,12.0,Natural,61.0,Pass,41.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,16.4,pass_forward,38.63,12.15,137.28,0.31,99.98,2.8
+44421.0,44421-12,44421-12-41,Defensive Lineman,365.0,12.0,Natural,61.0,Pass,41.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,18.7,pass_outcome_incomplete,41.84,11.4,20.8,0.15,358.78,1.31
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,59.24,28.31,126.41,0.0,5.85,0.03
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,0.4,huddle_break_offense,59.25,28.3,129.44,0.0,7.44,0.23
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,3.5,line_set,60.72,27.34,95.92,0.03,355.63,0.36
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,9.8,ball_snap,61.1,27.54,2.46,0.0,8.31,0.53
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,11.2,pass_forward,60.67,29.46,292.36,0.18,340.69,1.54
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,12.1,pass_arrived,58.54,28.62,245.59,0.38,75.92,3.84
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,12.4,pass_outcome_caught,57.43,27.87,247.64,0.48,107.81,4.52
+44434.0,44434-10,44434-10-31,Defensive Lineman,71.0,10.0,Natural,38.0,Pass,31.0,DE,DL,Foot,Natural,1.0,1.0,1.0,1.0,13.6,tackle,50.68,26.5,270.53,0.63,179.66,5.52
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,0.0,huddle_start_offense,65.61,31.4,45.97,0.0,181.83,0.01
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,5.2,huddle_break_offense,66.53,38.81,357.09,0.29,266.16,2.77
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,8.7,line_set,64.84,44.66,290.63,0.1,173.86,0.9
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,12.6,man_in_motion,63.47,44.47,39.2,0.0,174.7,0.01
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,13.5,ball_snap,63.47,44.48,67.28,0.0,174.91,0.71
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,16.1,pass_forward,74.52,48.66,66.56,0.72,295.05,6.25
+44440.0,44440-6,44440-6-18,Cornerback,-34.0,6.0,Synthetic,-999.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,0.0,0.0,0.0,19.1,pass_outcome_incomplete,79.7,51.47,116.84,0.09,85.84,0.94
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,11.3,huddle_start_offense,96.14,23.48,1.33,0.01,185.14,0.04
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,16.2,huddle_break_offense,95.76,25.64,339.5,0.32,224.56,3.09
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,23.1,line_set,91.02,32.17,255.17,0.01,181.97,0.14
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,25.9,ball_snap,90.96,32.12,239.04,0.0,155.71,1.03
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,29.2,pass_forward,84.23,20.15,187.91,0.18,52.77,2.06
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,31.3,pass_arrived,84.9,20.17,315.69,0.12,263.68,0.88
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,31.6,pass_outcome_caught,84.61,20.37,308.73,0.11,247.83,1.18
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,31.9,first_contact,84.3,20.58,305.39,0.14,222.34,1.39
+44449.0,44449-6,44449-6-13,Wide Receiver,42.0,6.0,Natural,52.0,Pass,13.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,34.0,tackle,81.21,22.3,292.65,0.17,222.28,1.7
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,0.0,huddle_start_offense,43.48,23.14,149.67,0.01,121.59,0.08
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,3.6,huddle_break_offense,43.64,23.75,28.14,0.16,303.3,1.56
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,7.1,line_set,49.01,33.8,37.58,0.06,56.76,0.6
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,11.8,ball_snap,49.08,33.71,125.46,0.0,131.2,0.05
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,15.0,pass_forward,61.73,29.63,26.55,0.45,327.18,4.59
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,16.1,pass_arrived,62.62,34.91,3.32,0.41,279.86,3.95
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,16.9,pass_outcome_incomplete,62.76,37.08,11.41,0.2,289.49,1.68
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,21.7,penalty_flag,61.42,38.97,310.33,0.13,295.26,1.34
+44449.0,44449-28,44449-28-35,Wide Receiver,445.0,28.0,Synthetic,70.0,Pass,35.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,37.4,penalty_flag,48.88,27.75,176.91,0.06,130.81,0.59
+44482.0,44482-20,44482-20-21,Defensive Lineman,428.0,20.0,Synthetic,39.0,Rush,21.0,DT,DL,Knee,Synthetic,1.0,1.0,1.0,1.0,5.8,huddle_break_offense,8.83,31.47,23.09,0.0,98.59,0.0
+44482.0,44482-20,44482-20-21,Defensive Lineman,428.0,20.0,Synthetic,39.0,Rush,21.0,DT,DL,Knee,Synthetic,1.0,1.0,1.0,1.0,8.2,line_set,9.44,31.85,60.98,0.12,101.6,1.14
+44482.0,44482-20,44482-20-21,Defensive Lineman,428.0,20.0,Synthetic,39.0,Rush,21.0,DT,DL,Knee,Synthetic,1.0,1.0,1.0,1.0,12.6,ball_snap,9.82,31.77,74.06,0.02,57.86,0.1
+44482.0,44482-20,44482-20-21,Defensive Lineman,428.0,20.0,Synthetic,39.0,Rush,21.0,DT,DL,Knee,Synthetic,1.0,1.0,1.0,1.0,13.3,run,10.11,31.49,143.85,0.08,59.16,0.67
+44482.0,44482-20,44482-20-21,Defensive Lineman,428.0,20.0,Synthetic,39.0,Rush,21.0,DT,DL,Knee,Synthetic,1.0,1.0,1.0,1.0,13.9,touchdown,10.37,31.02,152.56,0.06,5.12,0.76
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,52.42,33.08,186.45,0.14,87.19,1.41
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,6.7,huddle_break_offense,51.34,31.81,30.48,0.15,328.19,1.49
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,11.9,line_set,54.99,36.38,129.04,0.03,29.39,0.13
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,20.9,ball_snap,55.09,36.52,341.12,0.0,32.77,0.01
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,23.4,pass_forward,49.73,39.83,289.88,0.56,229.81,5.41
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,24.8,pass_arrived,40.24,40.57,263.73,0.73,165.81,6.88
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,25.3,pass_outcome_caught,36.8,39.95,257.36,0.67,158.58,6.24
+44489.0,44489-11,44489-11-32,Linebacker,78.0,11.0,Synthetic,46.0,Pass,32.0,OLB,LB,Ankle,Synthetic,1.0,1.0,1.0,1.0,26.0,tackle,32.94,38.64,251.47,0.5,151.85,4.63
+44492.0,44492-3,44492-3-23,Running Back,15.0,3.0,Natural,88.0,Rush,23.0,RB,RB,Ankle,Natural,1.0,1.0,1.0,1.0,0.8,ball_snap,37.62,21.44,32.12,0.28,285.98,2.43
+44492.0,44492-3,44492-3-23,Running Back,15.0,3.0,Natural,88.0,Rush,23.0,RB,RB,Ankle,Natural,1.0,1.0,1.0,1.0,1.7,handoff,39.59,24.28,31.25,0.46,287.98,4.11
+44492.0,44492-3,44492-3-23,Running Back,15.0,3.0,Natural,88.0,Rush,23.0,RB,RB,Ankle,Natural,1.0,1.0,1.0,1.0,2.8,first_contact,41.55,28.65,14.98,0.46,335.15,3.72
+44492.0,44492-3,44492-3-23,Running Back,15.0,3.0,Natural,88.0,Rush,23.0,RB,RB,Ankle,Natural,1.0,1.0,1.0,1.0,3.4,tackle,41.9,30.39,3.95,0.1,295.99,2.57
+44542.0,44542-13,44542-13-20,Wide Receiver,89.0,13.0,Natural,44.0,Pass,20.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,5.8,huddle_break_offense,88.45,29.24,169.84,0.03,94.91,0.28
+44542.0,44542-13,44542-13-20,Wide Receiver,89.0,13.0,Natural,44.0,Pass,20.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,12.0,line_set,93.33,16.35,309.46,0.0,101.27,0.04
+44542.0,44542-13,44542-13-20,Wide Receiver,89.0,13.0,Natural,44.0,Pass,20.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,17.6,ball_snap,93.35,16.2,207.25,0.01,103.29,0.0
+44542.0,44542-13,44542-13-20,Wide Receiver,89.0,13.0,Natural,44.0,Pass,20.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,20.1,pass_forward,104.04,10.62,117.32,0.53,49.58,5.28
+44542.0,44542-13,44542-13-20,Wide Receiver,89.0,13.0,Natural,44.0,Pass,20.0,WR,WR,Ankle,Natural,1.0,1.0,0.0,0.0,21.8,pass_outcome_incomplete,108.0,11.77,58.88,0.11,42.29,0.92
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,0.0,huddle_start_offense,25.22,28.57,63.53,0.0,9.21,0.03
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,2.4,huddle_break_offense,25.94,30.02,12.55,0.1,286.7,0.95
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,9.4,line_set,25.59,31.31,41.35,0.0,13.07,0.07
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,15.4,ball_snap,25.7,31.3,51.6,0.0,11.97,0.69
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,16.8,handoff,28.01,33.32,51.74,0.29,18.42,2.38
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,18.0,first_contact,28.98,33.9,283.6,0.07,50.72,0.08
+44806.0,44806-7,44806-7-61,Linebacker,43.0,7.0,Synthetic,-999.0,Rush,61.0,ILB,LB,Knee,Synthetic,1.0,0.0,0.0,0.0,19.3,tackle,28.9,33.4,140.81,0.19,65.61,0.85
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,0.0,huddle_start_offense,40.68,28.97,32.08,0.11,225.38,1.02
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,0.4,huddle_break_offense,40.79,29.38,13.02,0.12,220.9,0.97
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,4.2,line_set,39.97,31.45,313.05,0.05,192.8,0.23
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,10.1,man_in_motion,39.73,31.73,178.88,0.0,178.44,0.0
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,13.4,ball_snap,39.69,31.72,226.73,0.0,180.39,0.79
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,14.7,handoff,37.62,30.64,263.87,0.27,159.75,2.76
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,17.4,first_contact,34.56,28.17,126.42,0.03,30.91,0.41
+44860.0,44860-5,44860-5-52,Linebacker,29.0,5.0,Natural,67.0,Rush,52.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,18.1,tackle,34.75,28.52,37.18,0.06,60.85,0.37
+44900.0,44900-7,44900-7-10,Defensive Lineman,43.0,7.0,Natural,70.0,Kickoff,10.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,0.1,kickoff_play,79.14,25.15,152.49,0.13,19.73,1.37
+44900.0,44900-7,44900-7-10,Defensive Lineman,43.0,7.0,Natural,70.0,Kickoff,10.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,16.1,kickoff,72.88,22.22,275.97,0.66,209.06,6.37
+44900.0,44900-7,44900-7-10,Defensive Lineman,43.0,7.0,Natural,70.0,Kickoff,10.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,20.1,kick_received,41.49,31.28,295.05,0.8,207.26,7.58
+44900.0,44900-7,44900-7-10,Defensive Lineman,43.0,7.0,Natural,70.0,Kickoff,10.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,24.0,first_contact,31.45,34.73,56.28,0.03,135.96,0.14
+44900.0,44900-7,44900-7-10,Defensive Lineman,43.0,7.0,Natural,70.0,Kickoff,10.0,DE,DL,Knee,Natural,1.0,1.0,0.0,0.0,25.9,tackle,31.61,34.92,321.51,0.01,137.39,0.04
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,4.7,huddle_break_offense,23.36,21.89,195.12,0.27,247.18,2.8
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,10.3,line_set,16.85,9.66,20.51,0.03,266.27,0.21
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,12.0,man_in_motion,16.92,9.64,75.45,0.01,264.13,0.03
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,15.5,ball_snap,16.91,9.65,98.86,0.0,260.15,0.0
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,17.0,handoff,14.07,12.84,322.39,0.58,301.81,5.81
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,18.3,first_contact,10.47,16.88,316.75,0.24,245.67,2.31
+45187.0,45187-9,45187-9-4,Wide Receiver,327.0,9.0,Natural,81.0,Rush,4.0,WR,WR,Ankle,Natural,1.0,0.0,0.0,0.0,19.8,tackle,9.59,19.72,12.43,0.13,209.47,1.32
+45950.0,45950-8,45950-8-18,Safety,71.0,8.0,Natural,38.0,Punt,18.0,FS,DB,Ankle,Natural,1.0,0.0,0.0,0.0,0.0,punt_play,79.78,22.86,59.15,0.1,182.95,0.86
+45950.0,45950-8,45950-8-18,Safety,71.0,8.0,Natural,38.0,Punt,18.0,FS,DB,Ankle,Natural,1.0,0.0,0.0,0.0,3.3,line_set,79.9,23.92,299.97,0.01,191.73,0.16
+45950.0,45950-8,45950-8-18,Safety,71.0,8.0,Natural,38.0,Punt,18.0,FS,DB,Ankle,Natural,1.0,0.0,0.0,0.0,6.2,ball_snap,80.6,23.58,197.32,0.01,190.52,0.1
+45950.0,45950-8,45950-8-18,Safety,71.0,8.0,Natural,38.0,Punt,18.0,FS,DB,Ankle,Natural,1.0,0.0,0.0,0.0,8.4,punt,81.34,22.7,111.82,0.15,179.37,1.55
+45950.0,45950-8,45950-8-18,Safety,71.0,8.0,Natural,38.0,Punt,18.0,FS,DB,Ankle,Natural,1.0,0.0,0.0,0.0,13.2,punt_land,81.37,8.62,228.76,0.04,154.27,0.94
+45950.0,45950-8,45950-8-18,Safety,71.0,8.0,Natural,38.0,Punt,18.0,FS,DB,Ankle,Natural,1.0,0.0,0.0,0.0,16.8,out_of_bounds,81.05,9.59,354.75,0.07,92.07,0.42
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,0.0,huddle_start_offense,92.88,11.48,256.51,0.03,184.96,0.35
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,2.6,huddle_break_offense,92.32,11.47,10.44,0.0,209.07,0.02
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,4.7,line_set,92.29,11.45,218.26,0.01,214.96,0.05
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,7.0,ball_snap,92.19,11.38,265.23,0.01,209.56,0.82
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,9.5,pass_forward,82.71,12.13,292.55,0.5,214.88,4.08
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,10.3,pass_arrived,80.96,14.02,349.77,0.28,297.81,2.24
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,10.4,pass_outcome_caught,81.02,14.29,359.77,0.28,306.78,2.18
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,10.9,first_contact,81.83,15.47,36.17,0.29,341.94,2.3
+45962.0,45962-8,45962-8-40,Wide Receiver,54.0,8.0,Synthetic,68.0,Pass,40.0,WR,WR,Ankle,Synthetic,1.0,1.0,0.0,0.0,11.8,tackle,83.63,16.51,54.85,0.17,345.89,1.81
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,21.77,29.55,339.76,0.03,354.77,0.2
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,3.4,huddle_break_offense,21.28,29.74,278.83,0.28,18.26,0.78
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,7.4,line_set,19.52,29.75,92.33,0.0,7.78,0.03
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,13.8,ball_snap,19.68,29.72,115.2,0.01,1.39,1.71
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,14.7,handoff,22.44,28.43,95.38,0.45,7.89,4.55
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,17.2,first_contact,37.79,24.71,136.43,0.54,8.07,4.86
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,17.7,fumble,38.74,22.67,148.03,0.4,342.1,3.11
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,19.0,fumble_defense_recovered,39.11,21.63,163.7,0.03,300.03,0.12
+45966.0,45966-4,45966-4-27,Running Back,21.0,4.0,Synthetic,-999.0,Rush,27.0,RB,RB,Knee,Synthetic,1.0,1.0,1.0,1.0,19.9,tackle,38.97,21.52,59.64,0.04,179.31,0.11
+45983.0,45983-18,45983-18-21,Offensive Lineman,373.0,18.0,Natural,79.0,Rush,21.0,C,OL,Ankle,Natural,1.0,1.0,0.0,0.0,2.8,huddle_break_offense,58.43,22.87,146.11,0.01,103.25,0.0
+45983.0,45983-18,45983-18-21,Offensive Lineman,373.0,18.0,Natural,79.0,Rush,21.0,C,OL,Ankle,Natural,1.0,1.0,0.0,0.0,9.1,line_set,56.43,22.37,15.77,0.01,251.83,0.16
+45983.0,45983-18,45983-18-21,Offensive Lineman,373.0,18.0,Natural,79.0,Rush,21.0,C,OL,Ankle,Natural,1.0,1.0,0.0,0.0,14.4,ball_snap,56.43,22.36,4.76,0.0,234.16,0.0
+45983.0,45983-18,45983-18-21,Offensive Lineman,373.0,18.0,Natural,79.0,Rush,21.0,C,OL,Ankle,Natural,1.0,1.0,0.0,0.0,15.3,handoff,56.33,23.53,358.08,0.21,258.96,1.77
+45983.0,45983-18,45983-18-21,Offensive Lineman,373.0,18.0,Natural,79.0,Rush,21.0,C,OL,Ankle,Natural,1.0,1.0,0.0,0.0,16.5,first_contact,56.51,27.12,359.04,0.39,269.47,3.56
+45983.0,45983-18,45983-18-21,Offensive Lineman,373.0,18.0,Natural,79.0,Rush,21.0,C,OL,Ankle,Natural,1.0,1.0,0.0,0.0,16.9,tackle,56.33,28.83,354.59,0.45,301.48,4.25
+46014.0,46014-10,46014-10-22,Running Back,71.0,10.0,Synthetic,60.0,Rush,22.0,RB,RB,Ankle,Synthetic,1.0,1.0,1.0,1.0,3.5,huddle_break_offense,67.93,23.22,1.02,0.0,307.58,0.03
+46014.0,46014-10,46014-10-22,Running Back,71.0,10.0,Synthetic,60.0,Rush,22.0,RB,RB,Ankle,Synthetic,1.0,1.0,1.0,1.0,7.4,line_set,69.38,25.74,84.46,0.07,350.79,0.78
+46014.0,46014-10,46014-10-22,Running Back,71.0,10.0,Synthetic,60.0,Rush,22.0,RB,RB,Ankle,Synthetic,1.0,1.0,1.0,1.0,14.9,ball_snap,71.1,25.9,163.89,0.0,355.12,0.84
+46014.0,46014-10,46014-10-22,Running Back,71.0,10.0,Synthetic,60.0,Rush,22.0,RB,RB,Ankle,Synthetic,1.0,1.0,1.0,1.0,16.0,handoff,71.76,23.78,169.11,0.37,23.97,3.71
+46014.0,46014-10,46014-10-22,Running Back,71.0,10.0,Synthetic,60.0,Rush,22.0,RB,RB,Ankle,Synthetic,1.0,1.0,1.0,1.0,21.9,touchdown,109.45,1.4,85.58,0.92,354.53,8.14
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,4.3,huddle_break_offense,106.93,25.76,122.76,0.1,284.53,0.98
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,10.8,line_set,108.77,19.81,153.98,0.1,202.4,1.02
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,14.5,ball_snap,110.31,17.9,211.6,0.02,218.26,0.17
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,17.9,pass_forward,114.17,22.26,21.75,0.47,322.51,4.72
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,18.6,pass_arrived,115.13,25.71,6.97,0.53,319.95,5.28
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,19.6,pass_outcome_interception,113.51,29.38,293.85,0.4,255.94,4.04
+46038.0,46038-30,46038-30-58,Safety,463.0,30.0,Natural,45.0,Pass,58.0,FS,DB,Ankle,Natural,1.0,1.0,0.0,0.0,23.2,tackle,102.54,14.49,300.36,0.11,234.72,0.98
+46074.0,46074-7,46074-7-26,Linebacker,50.0,7.0,Natural,76.0,Punt,26.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,0.0,punt_play,54.62,27.9,98.71,0.12,328.1,1.07
+46074.0,46074-7,46074-7-26,Linebacker,50.0,7.0,Natural,76.0,Punt,26.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,10.5,line_set,61.62,25.7,233.6,0.0,47.48,0.01
+46074.0,46074-7,46074-7-26,Linebacker,50.0,7.0,Natural,76.0,Punt,26.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,13.3,ball_snap,61.6,25.68,275.21,0.0,32.47,0.85
+46074.0,46074-7,46074-7-26,Linebacker,50.0,7.0,Natural,76.0,Punt,26.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,15.4,punt,59.78,25.71,95.49,0.11,335.5,1.28
+46074.0,46074-7,46074-7-26,Linebacker,50.0,7.0,Natural,76.0,Punt,26.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,20.2,fair_catch,87.02,27.74,76.85,0.67,351.4,6.46
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,0.0,huddle_start_offense,49.98,22.36,17.37,0.12,359.79,1.22
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,9.4,huddle_break_offense,51.62,20.37,163.23,0.29,156.84,2.79
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,13.6,line_set,55.12,16.6,293.79,0.01,103.43,0.11
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,18.5,man_in_motion,55.09,16.6,68.36,0.0,84.05,0.0
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,19.3,shift,55.07,17.15,358.43,0.19,67.63,1.91
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,20.0,ball_snap,55.04,19.74,359.2,0.51,16.81,5.14
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,20.6,handoff,55.03,23.51,359.78,0.7,7.26,7.08
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,23.2,first_contact,61.09,37.27,21.02,0.37,88.74,3.59
+46098.0,46098-17,46098-17-27,Wide Receiver,462.0,17.0,Synthetic,39.0,Rush,27.0,WR,WR,Ankle,Synthetic,1.0,0.0,0.0,0.0,23.5,tackle,61.36,38.18,12.53,0.29,100.96,2.78
+46119.0,46119-3,46119-3-16,Linebacker,15.0,3.0,Natural,89.0,Punt,16.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,0.0,line_set,24.74,34.3,250.89,0.02,116.59,0.31
+46119.0,46119-3,46119-3-16,Linebacker,15.0,3.0,Natural,89.0,Punt,16.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,7.5,ball_snap,23.84,34.08,261.14,0.18,128.53,2.02
+46119.0,46119-3,46119-3-16,Linebacker,15.0,3.0,Natural,89.0,Punt,16.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,8.8,punt,19.8,33.96,302.44,0.22,167.43,2.35
+46119.0,46119-3,46119-3-16,Linebacker,15.0,3.0,Natural,89.0,Punt,16.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,13.2,punt_received,41.1,44.05,93.58,0.95,349.91,9.32
+46119.0,46119-3,46119-3-16,Linebacker,15.0,3.0,Natural,89.0,Punt,16.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,16.0,first_contact,62.85,38.56,112.74,0.51,25.94,5.04
+46119.0,46119-3,46119-3-16,Linebacker,15.0,3.0,Natural,89.0,Punt,16.0,OLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,18.6,tackle,65.61,35.24,243.81,0.22,149.13,2.16
+46316.0,46316-5,46316-5-4,Defensive Lineman,334.0,5.0,Natural,75.0,Rush,4.0,DE,DL,Ankle,Natural,1.0,1.0,0.0,0.0,1.9,line_set,22.4,33.19,344.72,0.1,142.95,0.78
+46316.0,46316-5,46316-5-4,Defensive Lineman,334.0,5.0,Natural,75.0,Rush,4.0,DE,DL,Ankle,Natural,1.0,1.0,0.0,0.0,5.3,ball_snap,22.55,34.23,144.72,0.02,60.89,0.26
+46316.0,46316-5,46316-5-4,Defensive Lineman,334.0,5.0,Natural,75.0,Rush,4.0,DE,DL,Ankle,Natural,1.0,1.0,0.0,0.0,6.8,handoff,23.71,33.02,147.25,0.1,110.92,1.26
+46316.0,46316-5,46316-5-4,Defensive Lineman,334.0,5.0,Natural,75.0,Rush,4.0,DE,DL,Ankle,Natural,1.0,1.0,0.0,0.0,8.0,first_contact,24.2,30.96,170.4,0.24,126.39,2.3
+46316.0,46316-5,46316-5-4,Defensive Lineman,334.0,5.0,Natural,75.0,Rush,4.0,DE,DL,Ankle,Natural,1.0,1.0,0.0,0.0,9.0,tackle,23.54,29.02,207.09,0.18,191.98,1.88
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,0.0,huddle_start_offense,52.86,28.54,307.86,0.0,357.07,0.06
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,2.2,huddle_break_offense,51.43,29.78,311.78,0.12,21.43,1.01
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,4.3,line_set,50.62,31.62,5.42,0.12,307.42,1.2
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,15.1,shift,51.34,34.89,289.76,0.04,349.76,0.97
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,18.4,ball_snap,48.52,35.73,146.34,0.12,0.27,0.89
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,21.5,pass_forward,46.72,36.47,347.76,0.33,334.83,3.46
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,22.7,pass_arrived,46.5,42.65,354.68,0.65,298.15,5.83
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,22.8,pass_outcome_caught,46.48,43.32,353.51,0.67,293.3,5.84
+46331.0,46331-4,46331-4-44,Safety,22.0,4.0,Synthetic,61.0,Pass,44.0,SS,DB,Ankle,Synthetic,1.0,1.0,1.0,1.0,23.7,tackle,45.32,48.54,330.29,0.51,216.19,4.65
+46394.0,46394-18,46394-18-3,Tight End,393.0,18.0,Synthetic,45.0,Kickoff Returned,3.0,TE,TE,Knee,Synthetic,1.0,1.0,0.0,0.0,0.0,kickoff_play,78.76,30.11,198.28,0.01,206.82,0.05
+46394.0,46394-18,46394-18-3,Tight End,393.0,18.0,Synthetic,45.0,Kickoff Returned,3.0,TE,TE,Knee,Synthetic,1.0,1.0,0.0,0.0,17.5,kickoff,75.11,41.79,264.25,0.27,253.79,2.89
+46394.0,46394-18,46394-18-3,Tight End,393.0,18.0,Synthetic,45.0,Kickoff Returned,3.0,TE,TE,Knee,Synthetic,1.0,1.0,0.0,0.0,21.5,kick_received,43.37,42.64,277.99,0.84,257.89,8.31
+46394.0,46394-18,46394-18-3,Tight End,393.0,18.0,Synthetic,45.0,Kickoff Returned,3.0,TE,TE,Knee,Synthetic,1.0,1.0,0.0,0.0,24.2,first_contact,27.62,42.06,295.78,0.56,297.84,5.58
+46394.0,46394-18,46394-18-3,Tight End,393.0,18.0,Synthetic,45.0,Kickoff Returned,3.0,TE,TE,Knee,Synthetic,1.0,1.0,0.0,0.0,27.6,tackle,29.69,51.44,174.59,0.06,118.27,0.62
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,0.0,punt_play,86.83,18.69,130.51,0.02,335.88,0.37
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,5.8,line_set,87.33,19.0,20.67,0.01,320.29,0.13
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,10.6,ball_snap,87.79,19.35,81.52,0.21,88.15,2.09
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,12.5,punt,92.22,18.99,213.64,0.25,0.79,2.1
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,16.7,punt_muffed,69.15,10.43,261.82,0.73,175.74,7.25
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,18.9,punt_received,53.72,8.59,270.17,0.67,174.45,6.63
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,20.8,first_contact,42.47,11.23,293.1,0.53,205.15,4.92
+46430.0,46430-8,46430-8-6,Linebacker,71.0,8.0,Natural,38.0,Punt,6.0,MLB,LB,Knee,Natural,1.0,1.0,0.0,0.0,21.5,tackle,39.66,12.45,298.64,0.36,218.64,3.4
+46587.0,46587-2,46587-2-13,Wide Receiver,8.0,2.0,Synthetic,68.0,Kickoff,13.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,1.0,0.0,kickoff_play,39.94,10.22,79.09,0.0,238.08,0.02
+46587.0,46587-2,46587-2-13,Wide Receiver,8.0,2.0,Synthetic,68.0,Kickoff,13.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,1.0,22.3,kickoff,44.06,10.48,86.14,0.54,12.86,5.93
+46587.0,46587-2,46587-2-13,Wide Receiver,8.0,2.0,Synthetic,68.0,Kickoff,13.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,1.0,26.8,kick_received,81.47,18.79,50.49,0.79,330.34,7.83
+46587.0,46587-2,46587-2-13,Wide Receiver,8.0,2.0,Synthetic,68.0,Kickoff,13.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,1.0,29.4,first_contact,92.81,32.29,32.6,0.4,25.94,4.03
+46587.0,46587-2,46587-2-13,Wide Receiver,8.0,2.0,Synthetic,68.0,Kickoff,13.0,WR,WR,Knee,Synthetic,1.0,1.0,1.0,1.0,30.3,tackle,93.79,34.37,14.82,0.15,152.8,1.61
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,0.0,punt_play,26.43,30.76,107.92,0.01,6.5,0.14
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,1.5,line_set,26.47,30.74,91.49,0.0,11.16,0.03
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,3.4,ball_snap,26.5,30.74,274.1,0.0,8.0,0.09
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,5.6,punt,24.03,30.94,152.55,0.07,4.82,0.7
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,10.1,punt_received,42.81,29.36,103.11,0.69,15.67,6.82
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,18.7,out_of_bounds,71.01,23.81,24.11,0.02,304.41,0.11
+46646.0,46646-3,46646-3-30,Linebacker,15.0,3.0,Natural,80.0,Punt,30.0,LB,LB,Ankle,Natural,1.0,0.0,0.0,0.0,22.4,penalty_flag,70.9,23.73,166.81,0.03,297.59,0.09
+47220.0,47220-4,47220-4-16,Running Back,29.0,4.0,Synthetic,55.0,Pass,16.0,RB,RB,Knee,Synthetic,1.0,1.0,0.0,0.0,1.9,line_set,85.2,21.17,277.91,0.01,262.68,0.08
+47220.0,47220-4,47220-4-16,Running Back,29.0,4.0,Synthetic,55.0,Pass,16.0,RB,RB,Knee,Synthetic,1.0,1.0,0.0,0.0,14.9,ball_snap,84.8,21.07,207.77,0.0,256.33,0.01
+47220.0,47220-4,47220-4-16,Running Back,29.0,4.0,Synthetic,55.0,Pass,16.0,RB,RB,Knee,Synthetic,1.0,1.0,0.0,0.0,16.8,pass_forward,82.46,13.52,197.19,0.69,155.21,6.84
+47220.0,47220-4,47220-4-16,Running Back,29.0,4.0,Synthetic,55.0,Pass,16.0,RB,RB,Knee,Synthetic,1.0,1.0,0.0,0.0,17.4,pass_arrived,81.16,9.74,200.39,0.63,190.16,6.17
+47220.0,47220-4,47220-4-16,Running Back,29.0,4.0,Synthetic,55.0,Pass,16.0,RB,RB,Knee,Synthetic,1.0,1.0,0.0,0.0,18.1,pass_outcome_incomplete,79.58,6.3,209.6,0.5,245.91,4.88
+47235.0,47235-7,47235-7-55,Cornerback,50.0,7.0,Synthetic,55.0,Punt Not Returned,55.0,CB,DB,Foot,Synthetic,1.0,1.0,1.0,0.0,0.0,punt_play,72.48,28.17,169.21,0.33,160.99,3.36
+47235.0,47235-7,47235-7-55,Cornerback,50.0,7.0,Synthetic,55.0,Punt Not Returned,55.0,CB,DB,Foot,Synthetic,1.0,1.0,1.0,0.0,4.7,line_set,77.42,9.36,158.9,0.25,129.15,2.44
+47235.0,47235-7,47235-7-55,Cornerback,50.0,7.0,Synthetic,55.0,Punt Not Returned,55.0,CB,DB,Foot,Synthetic,1.0,1.0,1.0,0.0,12.8,ball_snap,77.96,8.54,50.41,0.0,123.27,0.0
+47235.0,47235-7,47235-7-55,Cornerback,50.0,7.0,Synthetic,55.0,Punt Not Returned,55.0,CB,DB,Foot,Synthetic,1.0,1.0,1.0,0.0,15.0,punt,74.44,3.56,234.71,0.5,196.25,5.03
+47235.0,47235-7,47235-7-55,Cornerback,50.0,7.0,Synthetic,55.0,Punt Not Returned,55.0,CB,DB,Foot,Synthetic,1.0,1.0,1.0,0.0,17.8,punt_land,55.35,5.26,310.55,0.82,331.93,8.13
+47235.0,47235-7,47235-7-55,Cornerback,50.0,7.0,Synthetic,55.0,Punt Not Returned,55.0,CB,DB,Foot,Synthetic,1.0,1.0,1.0,0.0,24.1,punt_downed,43.03,13.69,227.98,0.03,242.93,0.22
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,0.4,huddle_break_offense,105.5,27.12,145.02,0.18,144.32,1.77
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,6.1,line_set,106.81,25.55,319.64,0.01,73.81,0.06
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,9.2,ball_snap,106.82,25.55,333.28,0.01,73.85,0.02
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,10.2,pass_forward,106.07,27.47,343.54,0.43,15.98,4.41
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,10.5,pass_arrived,105.67,28.88,344.04,0.52,14.72,5.31
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,10.8,pass_outcome_caught,105.2,30.43,341.59,0.54,10.46,5.39
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,11.7,first_contact,103.36,33.17,283.48,0.17,44.39,1.73
+47287.0,47287-4,47287-4-16,Wide Receiver,22.0,4.0,Natural,71.0,Pass,16.0,WR,WR,Knee,Natural,1.0,0.0,0.0,0.0,12.9,tackle,101.49,31.17,223.41,0.2,31.76,2.41
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,6.3,huddle_break_offense,8.42,24.35,345.99,0.06,94.36,0.63
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,6.3,huddle_break_offense,8.42,24.35,345.99,0.06,94.36,0.63
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,11.4,line_set,10.25,32.48,17.44,0.09,81.09,0.89
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,11.4,line_set,10.25,32.48,17.44,0.09,81.09,0.89
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,17.2,man_in_motion,9.8,30.78,221.91,0.18,142.32,1.99
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,17.2,man_in_motion,9.8,30.78,221.91,0.18,142.32,1.99
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,17.6,ball_snap,9.13,30.0,219.87,0.29,147.25,2.93
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,17.6,ball_snap,9.13,30.0,219.87,0.29,147.25,2.93
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,20.4,pass_forward,4.85,35.29,331.61,0.7,344.83,7.08
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,20.4,pass_forward,4.85,35.29,331.61,0.7,344.83,7.08
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,22.1,pass_outcome_incomplete,1.13,47.79,339.32,0.66,345.77,6.26
+47307.0,47307-10,47307-10-18,Cornerback,74.0,10.0,Synthetic,68.0,Pass,18.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,22.1,pass_outcome_incomplete,1.13,47.79,339.32,0.66,345.77,6.26
+47334.0,47334-8,47334-8-1,Safety,58.0,8.0,Synthetic,74.0,Kickoff Not Returned,1.0,DB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,9.4,kickoff,75.58,31.44,265.13,0.2,298.46,2.2
+47334.0,47334-8,47334-8-1,Safety,58.0,8.0,Synthetic,74.0,Kickoff Not Returned,1.0,DB,DB,Knee,Synthetic,1.0,1.0,0.0,0.0,13.4,touchback,42.59,34.38,284.15,0.94,252.39,9.22
+47813.0,47813-8,47813-8-19,Cornerback,78.0,8.0,Synthetic,44.0,Punt Returned,19.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,0.0,punt_play,33.08,43.18,12.4,0.0,267.7,0.04
+47813.0,47813-8,47813-8-19,Cornerback,78.0,8.0,Synthetic,44.0,Punt Returned,19.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,1.0,line_set,33.12,43.16,80.2,0.02,259.09,0.02
+47813.0,47813-8,47813-8-19,Cornerback,78.0,8.0,Synthetic,44.0,Punt Returned,19.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,2.1,ball_snap,33.13,43.09,143.43,0.01,257.46,0.01
+47813.0,47813-8,47813-8-19,Cornerback,78.0,8.0,Synthetic,44.0,Punt Returned,19.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,4.4,punt,38.16,35.59,133.53,0.8,132.08,7.96
+47813.0,47813-8,47813-8-19,Cornerback,78.0,8.0,Synthetic,44.0,Punt Returned,19.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,8.1,punt_received,64.21,18.73,116.26,0.78,72.16,7.68
+47813.0,47813-8,47813-8-19,Cornerback,78.0,8.0,Synthetic,44.0,Punt Returned,19.0,CB,DB,Ankle,Synthetic,1.0,1.0,0.0,0.0,15.6,tackle,77.16,15.42,125.38,0.06,349.49,0.52
