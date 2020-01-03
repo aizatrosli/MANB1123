@@ -2,6 +2,9 @@ import math, time, sys, os
 import pandas as pd
 import numpy as np
 from scipy import stats
+import statsmodels.api as sm
+import statsmodels.stats.api as smstats
+
 
 '''
 Estimation
@@ -143,7 +146,8 @@ def coeftest(r, n):
 def hypcoeftest(r, n, alpha=0.05):
     '''
     hypothesis coefficient t-test for correlation
-
+        p-value < alpha = NOT REJECTING H0
+        p-value > alpha = REJECTING H0
     :param r: sample correlation coefficient . get from df.corr()
     :param n: sample size
     :param alpha: significance level
@@ -153,7 +157,7 @@ def hypcoeftest(r, n, alpha=0.05):
     ttestval = coeftest(r, n)
     print("{0}Hypothesis Coefficient Correlation{0}".format("="*5))
     print("="*50)
-    print("r:\t{0}\nn:\t{1}\n\nnumber of standard error:\t{2}".format(r, n, t))
+    print("r:\t{0}\nn:\t{1}\n\nnumber of standard error:\t{2}".format(r, n, ttestval))
     print("="*50)
     if ttestval < talphaval:
         print("p-value({0}) < alpha({1})".format(ttestval, talphaval))
@@ -173,11 +177,17 @@ Linear Regression
 def regresssum(model, alpha=0.05):
     '''
     Linear Regression Summary from statsmodel.
-    example:
+    example linear:
         X = sm.add_constant(df[['Sales','Market Value']])
         Y = df['Stock Price']
         model = sm.OLS(Y,X).fit()
-        regresseq(model)
+        regresssum(model)
+    example polynomial:
+        from sklearn import preprocessing
+        X = preprocessing.PolynomialFeatures(2).fit_transform(df['Women'].values.reshape(-1,1))
+        Y = df['Men']
+        model = sm.OLS(Y,X).fit()
+        regresssum(model)
     :param model: statsmodel object
     :param alpha : confident level. default 0.05
     :return: string of linear regression equation, coef, adjusted coef
@@ -189,7 +199,34 @@ def regresssum(model, alpha=0.05):
     print(model.summary(alpha=alpha))
     print("{0}Custom Summary{0}".format("="*5))
     print("="*50)
-    print("Linear Regression Eq:\t{0}\nCoefficient of determination (R^2):\t{1}\nAdjusted coefficient of determination (adj R^2):\t{2}\n".format(eqstr, model.rsquared, model.rsquared_adj))
+    print("Linear Regression Eq:\t{0}\nalpha:\t{1}\nCoefficient of determination (R^2):\t{2}\nAdjusted coefficient of determination (adj R^2):\t{3}\n".format(eqstr, alpha, model.rsquared, model.rsquared_adj))
     print("="*50)
     return eqstr
 
+
+def hypregresspval(model, var, alpha=0.05):
+    df = pd.read_html(model.summary().tables[1].as_html(), header=0, index_col=0)[0]
+    pvalue = df.loc[var, 'P>|t|']
+    if pvalue > alpha:
+        print("p-value({0}) > alpha({1})".format(pvalue, alpha))
+        print("Not rejecting H0. Thus model is not significance.")
+        return True
+    else:
+        print("p-value({0}) < alpha({1})".format(pvalue, alpha))
+        print("Rejecting H0. Thus model is significance.")
+        return False
+
+def hypregresspvalall(model, alpha=0.05):
+    '''
+    Hypothesis testing for whole regression
+    :param model:
+    :param alpha: significance level
+    :return:
+    '''
+    print(model.summary(alpha=alpha))
+    if model.f_pvalue > alpha:
+        print("p-value({0}) > alpha({1})".format(model.f_pvalue, alpha))
+        print("Not rejecting H0. Thus model is not significance.")
+    else:
+        print("p-value({0}) < alpha({1})".format(model.f_pvalue, alpha))
+        print("Rejecting H0. Thus model is significance.")
