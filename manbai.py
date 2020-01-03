@@ -123,6 +123,108 @@ def cinterval(pe, merror):
 Hypothesis Testing
 '''
 
+
+def confint_propo(var1, var2, alpha=0.05):
+    '''
+    Confident interval for proportion
+    :param var1: dataframe var 1 (observe)
+    :param var2: dataframe var 2 (total_observe)
+    :param alpha: significance value
+    :return:
+    '''
+    ci = smstats.proportion_confint(var1, var2, alpha=alpha)
+    print(pd.DataFrame({'Lower CI': [ci[0]], 'Upper CI': [ci[1]]}))
+    return ci
+
+
+def confint_mean(var, alpha=0.05, alternative='two-sided'):
+    '''
+    Confident interval with mean
+    :param var: dataframe var 1
+    :param alpha: significance level
+    :param alternative : h1 != val (two-sided)
+                         h1 > val (larger)
+                         h1 < val (smaller)
+    :return:
+    '''
+    s = smstats.DescrStatsW(var)
+    ci = None
+    if s.std:
+        ci = s.zconfint_mean(alpha,alternative)
+    else:
+        ci = s.tconfint_mean(alpha,alternative)
+    print("{0}Confidence Interval - Compare Means{0}".format("="*5))
+    print("=" * 50)
+    print(pd.DataFrame({'Mean': [var.mean], 'Lower CI': [ci[0]], 'Upper CI': [ci[1]]}))
+    print("=" * 50)
+    return ci
+
+
+def singletest(var1, mean, alpha=0.05):
+    '''
+    T-test for the mean of ONE group of scores
+    :param var1: dataframe var 1
+    :param var2: dataframe var 2
+    :param alpha: significance level
+    :return:
+    '''
+    tset, pval = stats.ttest_1samp(var1, mean)
+    if pval < alpha:  # alpha value is 0.01 or 1%
+        print("We are rejecting null hypothesis", pval)
+    else:
+        print("We are accepting null hypothesis", pval)
+    return pval, alpha
+
+
+def comparemeans(var1,var2,alpha=0.05):
+    '''
+    Compare means based on 2 sample datas
+    :param var1: dataframe var 1
+    :param var2: dataframe var 2
+    :param alpha: significance level
+    :return:
+    '''
+    cm = smstats.CompareMeans(smstats.DescrStatsW(var1), smstats.DescrStatsW(var2))
+    ci = cm.tconfint_diff(alpha=alpha)
+    print("{0}Confidence Interval - Compare Means{0}".format("="*5))
+    print("="*50)
+    print("LCI:\t{0}\nUCI:\t{1}\n\nconfidence interval:\t{2}".format(ci[0], ci[1], ci))
+    print("="*50)
+    return ci
+
+
+def independenttest(var1, var2, alpha=0.05):
+    '''
+     T-test for the means of TWO INDEPENDENT samples of scores
+    :param var1: dataframe var 1
+    :param var2: dataframe var 2
+    :param alpha: significance level
+    :return: p-val, alpha
+    '''
+    ttest,pval = stats.ttest_ind(var1, var2)
+    if pval < alpha:
+      print("We are rejecting null hypothesis", pval, ttest)
+    else:
+      print("We are accepting null hypothesis", pval, ttest)
+    return pval,alpha
+
+
+def relatedtest(var1, var2, alpha=0.05):
+    '''
+    T-test on TWO RELATED/DEPENDENT samples of scores
+    :param var1: dataframe var 1
+    :param var2: dataframe var 2
+    :param alpha: significance level
+    :return: p-val, alpha
+    '''
+    ttest,pval = stats.ttest_rel(var1, var2)
+    if pval < alpha:
+      print("We are rejecting null hypothesis", pval, ttest)
+    else:
+      print("We are accepting null hypothesis", pval, ttest)
+    return pval,alpha
+
+
 '''
 Correlation
 '''
@@ -146,8 +248,8 @@ def coeftest(r, n):
 def hypcoeftest(r, n, alpha=0.05):
     '''
     hypothesis coefficient t-test for correlation
-        p-value < alpha = NOT REJECTING H0
-        p-value > alpha = REJECTING H0
+        p-value < alpha = NOT REJECTING H0 (No correlation)
+        p-value > alpha = REJECTING H0 (Correlation exists)
     :param r: sample correlation coefficient . get from df.corr()
     :param n: sample size
     :param alpha: significance level
@@ -205,6 +307,24 @@ def regresssum(model, alpha=0.05):
 
 
 def hypregresspval(model, var, alpha=0.05):
+    '''
+    Hypothesis testing for single var regression
+        example linear:
+        X = sm.add_constant(df[['Sales','Market Value']])
+        Y = df['Stock Price']
+        model = sm.OLS(Y,X).fit()
+        hypregresspval(model)
+    example polynomial:
+        from sklearn import preprocessing
+        X = preprocessing.PolynomialFeatures(2).fit_transform(df['Women'].values.reshape(-1,1))
+        Y = df['Men']
+        model = sm.OLS(Y,X).fit()
+        hypregresspval(model)
+    :param model: model
+    :param var: variable name
+    :param alpha:
+    :return:
+    '''
     df = pd.read_html(model.summary().tables[1].as_html(), header=0, index_col=0)[0]
     pvalue = df.loc[var, 'P>|t|']
     if pvalue > alpha:
@@ -216,11 +336,13 @@ def hypregresspval(model, var, alpha=0.05):
         print("Rejecting H0. Thus model is significance.")
         return False
 
+
 def hypregresspvalall(model, alpha=0.05):
     '''
     Hypothesis testing for whole regression
-    :param model:
+    :param model: model
     :param alpha: significance level
+
     :return:
     '''
     print(model.summary(alpha=alpha))
