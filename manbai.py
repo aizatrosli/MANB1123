@@ -176,16 +176,19 @@ def singletest(var1, mean, alpha=0.05):
     return pval, alpha
 
 
-def comparemeans(var1,var2,alpha=0.05):
+def comparemeans(var1,var2,alpha=0.05,alternative='two-sided'):
     '''
     Compare means based on 2 sample datas
     :param var1: dataframe var 1
     :param var2: dataframe var 2
+    :param alternative: H0 != 0 (two-sided)
+                        H0 > 0 (larger)
+                        H0 < 0 (smaller)
     :param alpha: significance level
     :return:
     '''
     cm = smstats.CompareMeans(smstats.DescrStatsW(var1), smstats.DescrStatsW(var2))
-    ci = cm.tconfint_diff(alpha=alpha)
+    ci = cm.tconfint_diff(alpha=alpha, alternative=alternative)
     print("{0}Confidence Interval - Compare Means{0}".format("="*5))
     print("="*50)
     print("LCI:\t{0}\nUCI:\t{1}\n\nconfidence interval:\t{2}".format(ci[0], ci[1], ci))
@@ -232,7 +235,11 @@ Correlation
 
 def coeftest(r, n):
     '''
-    T-test for correlation
+    T-test for correlation / coefficient determination
+    Reminder that:
+    An R2 of 0 means that the dependent variable cannot be predicted from the independent variable.
+    An R2 of 1 means the dependent variable can be predicted without error from the independent variable.
+    An R2 between 0 and 1 indicates the extent to which the dependent variable is predictable. An R2 of 0.10 means that 10 percent of the variance in Y is predictable from X; an R2 of 0.20 means that 20 percent is predictable; and so on.
     :param r: sample correlation coefficient . get from df.corr()
     :param n: sample size
     :return: number of standard errors is from 0
